@@ -100,3 +100,65 @@ Anurag Naithani
 
 ![Website](screenshots/website.png)
 
+
+## Screenshots
+
+### Website Output
+
+![Website](screenshots/website.png)
+
+### VPC
+
+![VPC](screenshots/vpc.png)
+
+### Subnets
+
+![Subnets](screenshots/subnets.png)
+
+### Auto Scaling Group
+
+![ASG](screenshots/auto-scaling-groups.png)
+
+### EC2 and Bastion Host
+
+![EC2](screenshots/ec2andBostionHost.png)
+
+### Target Group
+
+![Target Group](screenshots/target-group.png)
+
+### Load Balancer
+
+![Load Balancer](screenshots/loadBalancer.png)
+
+
+## Screenshots
+
+### Website Output
+
+![Website](screenshots/website.png)
+
+### VPC
+
+![VPC](screenshots/vpc.png)
+
+### Subnets
+
+![Subnets](screenshots/subnets.png)
+
+### Auto Scaling Group
+
+![ASG](screenshots/auto-scaling-groups.png)
+
+### EC2 and Bastion Host
+
+![EC2](screenshots/ec2andBostionHost.png)
+
+### Target Group
+
+![Target Group](screenshots/target-group.png)
+
+### Load Balancer
+
+![Load Balancer](screenshots/loadBalancer.png)
+
