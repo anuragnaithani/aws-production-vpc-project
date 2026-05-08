@@ -85,3 +85,18 @@ Through this project, I learned how production applications are deployed securel
 ## Created By
 
 Anurag Naithani
+
+## Screenshots
+
+### VPC Architecture
+
+![VPC](screenshots/vpc.png)
+
+### Load Balancer
+
+![ALB](screenshots/alb.png)
+
+### Website Output
+
+![Website](screenshots/website.png)
+
